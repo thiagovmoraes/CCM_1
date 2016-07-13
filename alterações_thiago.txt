@@ -1,0 +1,4 @@
+-fiz o "mebresiaCCM" do header apontar para "/membro"
+-tirei os números do header do email, avento, alerta...
+-adicionei os campos que devem ser adicionados no fillable do arquivo Membro.php(model)
+-alterei os nomes das variaveis do formulario _form para capturar os valores e adicionar no BD
