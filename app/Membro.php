@@ -21,7 +21,7 @@ class Membro extends Model {
         'complEndPessoal',
         'fonePessoal',
         'celPessoal',
-        'dataEngresso'
+        'dataIngresso'
     ];
     //protected $guarded = array('deleted_at');
     // habilitar o delete lógico
